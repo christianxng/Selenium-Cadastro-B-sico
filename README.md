@@ -19,3 +19,9 @@ Implementado um teste básico de cadastro de um email Gmail. Foi criado com o  a
 
 
 
+
+
+## Desenvolvedores 
+
+- [Christian Rodrigues Moura](https://github.com/christianxng)
+- [Jordi Henrique Marques da Silva](https://github.com/JordiHOFC)
